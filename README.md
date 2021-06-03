@@ -1,0 +1,2 @@
+# TODOCOM
+This To Do app is designed with gamified aspects to impove personal habits. You will earn points based on the difficulty of each task you complete. These points are used to return you a rank, based on your dedication. The current application is still under development. At this stage, the main test interface is the integrity and logical correctness. If you encounter any problems during the test, please contact me
